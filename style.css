@@ -1,0 +1,39 @@
+.navbar{
+    width: 100%;
+    height: 4em;
+    background-color: pink;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar h2{
+    color: #fff;
+    font-size: 3.5em;
+    font-weight: 600;
+    margin-left: 2em;
+}
+
+.navlist{
+    width: 50%;
+    display: flex;
+    justify-content: end;
+    
+}
+
+.navlist ul{
+    list-style: none;
+    display: inline-flex;
+    margin-right: 4em;
+}
+
+.navlist li{
+    margin-right: 30px;
+
+}
+
+.navlist li a{
+    text-decoration: none;
+    color: #fff;
+}
+
