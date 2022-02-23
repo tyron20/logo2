@@ -1,0 +1,23 @@
+.About {
+ border-right: 40em;
+nav-right: current;
+border-right-color: rgb(136, 125, 111);
+text-decoration-thickness: 0.7em;
+-moz-text-decoration-color: black;
+text-rendering: auto;
+text-shadow: 4em; 
+
+width: 100%;
+background-color: rgb(227, 231, 230);
+}
+
+.About h2{
+    text-align: right;
+}
+
+.Home{
+    border-top-right-radius: 7%;
+    margin-right: auto;
+    padding-right: 0%;
+    nav-right: current;
+}
