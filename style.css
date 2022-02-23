@@ -29,6 +29,7 @@
 
 .navlist li{
     margin-right: 30px;
+    font-size: larger;
 
 }
 
@@ -37,3 +38,6 @@
     color: #fff;
 }
 
+li a.active{
+    color: red;
+}
