@@ -1,0 +1,20 @@
+.About {
+ border-right: 40em;
+nav-right: current;
+border-right-color: rgb(243, 241, 237);
+text-shadow: 4em; 
+width: 100%;
+background-color: floralwhite;
+}
+
+.About h2{
+    text-align: right;
+    text-emphasis-position: top right;
+}
+
+.Home{
+    border-top-right-radius: 7%;
+    margin-right: auto;
+    padding-right: 0%;
+    nav-right: current;
+}
