@@ -1,0 +1,40 @@
+ 
+.container{
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+    background: skyblue;
+    margin-top: 20px;
+}
+
+.container ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.container ul li{
+    float:left;
+    list-style: none;
+    width:20%;
+    height:300px;
+    background: rgb(184, 106, 171);
+    margin :20px 0px 20px 55px; 
+    border:2px solid rgb(43, 6, 18);
+    box-sizing: border-box;
+}
+.container ul li:hover{
+    opacity: 0.8;
+}
+
+.container ul li .bottom{
+    width: 100%;
+    height:50px;
+    line-height: 50px;
+    background: rgb(255, 0, 221);    
+    text-align: center;
+    color:white;
+    font-size: 20px;
+   
+}
+    
